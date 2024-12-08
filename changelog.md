@@ -7,8 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.2] - 2024-12-08
 
-### Removed
-- Removed novo arquivo teste.txt
+### Chore
+- Chore novo arquivo teste.txt
 
 ### Added
 - Added novo arquivo teste.txt
