@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 olá, tudo bem com você, pessoa?!?
 
+=======
+olá, tudo bem?
+>>>>>>> parent of 1267ad0 (alterando arquivo)
